@@ -1,10 +1,11 @@
 # SMS-Encryption-App
-In this project i have created an app to encrypt and decrypt messages using a simple alogithm
+In this project I have created an app to encrypt and decrypt messages using a simple alogithm
 ## 1. Home Page
 
 <img src="./ImagesForReadme/HomePage.png"/>
 
-On Clicking home page<br>
+On Clicking home page
+
 <img src="./ImagesForReadme/onClickingHomePage.png"/>
 
 ## 2. Encryption Page
