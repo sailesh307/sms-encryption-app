@@ -66,6 +66,7 @@
                 android:layout_margin="5dp"
                 android:text="Encryption"
                 android:background="@drawable/buttonoutline"
+
                 android:textStyle="bold"
                 android:textSize="25sp"
                 android:textColor="#FFFFFF"

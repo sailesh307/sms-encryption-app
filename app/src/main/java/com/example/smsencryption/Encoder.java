@@ -31,7 +31,8 @@ public class Encoder extends AppCompatActivity {
 
     public void enc(View view){
         String temp=etenc.getText().toString();
-        String rv=Encode.enc(temp);
+        Encode obj=new Encode();
+        String rv=obj.enc(temp);    //to get encrypted text
         enctv.setText(rv);
     }
 

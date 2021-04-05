@@ -26,7 +26,22 @@
 
         <ImageView
             android:layout_width="wrap_content"
+            android:layout_height="256dp"
+            android:layout_gravity="center"
+            android:src="@drawable/encryption_decryption_process" />
+        <TextView
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/encryption_decryption_process"/>
+            android:layout_gravity="center"
+            android:text="Algorithm Used"
+            android:textColor="#EDC9AE"
+            android:textSize="40sp"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/encryption_process" />
     </LinearLayout>
 </ScrollView>
